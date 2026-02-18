@@ -1,4 +1,4 @@
-# reflect-money/agent-skills
+# Reflect Money — Agent Skills
 
 Agent skills for AI coding assistants integrating with the Reflect Money protocol.
 
@@ -21,20 +21,20 @@ Covers:
 ### Claude Code
 
 ```bash
-npx skills add reflect-money/agent-skills
+npx skills add palindrome-eng/agent-skills
 ```
 
 Or install directly inside Claude Code:
 
 ```
-/plugin marketplace add reflect-money/agent-skills
-/plugin install integrate-reflect@reflect-money-skills
+/plugin marketplace add palindrome-eng/agent-skills
+/plugin install integrate-reflect@palindrome-eng-skills
 ```
 
 ### Manual (Cursor, Windsurf, any agent)
 
 ```bash
-git clone https://github.com/reflect-money/agent-skills.git
+git clone https://github.com/palindrome-eng/agent-skills.git
 cp -r agent-skills/skills/* ~/.claude/skills/
 ```
 
@@ -43,7 +43,7 @@ cp -r agent-skills/skills/* ~/.claude/skills/
 Paste the raw URL into any agent's system prompt or context:
 
 ```
-https://raw.githubusercontent.com/reflect-money/agent-skills/main/skills/integrate-reflect/SKILL.md
+https://raw.githubusercontent.com/palindrome-eng/agent-skills/main/skills/integrate-reflect/SKILL.md
 ```
 
 ## Usage
