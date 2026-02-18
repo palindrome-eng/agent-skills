@@ -1,5 +1,5 @@
 ---
-name: integrating-reflect-money
+name: integrate-reflect
 description: Comprehensive guidance for integrating Reflect Money APIs and SDKs — yield-bearing stablecoins (USDC+, USDT+, USTR+), whitelabel branded stablecoins, restaking (RLP), oracle (Doppler), and protocol analytics on Solana. Use for endpoint selection, SDK usage, integration flows, error handling, and production hardening.
 license: MIT
 metadata:
